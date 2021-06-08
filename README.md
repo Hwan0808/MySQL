@@ -1,2 +1,2 @@
 # MySQL 🛠
-* mysql-study
+* mysql_study
